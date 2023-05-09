@@ -1,0 +1,18 @@
+.shoes{
+    display: flex;
+    justify-content: space-between;
+
+}
+img{
+    width: 300px;
+    height: 300px;
+    margin: 20px;
+    -webkit-box-shadow: 11px 11px 5px 1px rgba(0,0,0,0.75);
+-moz-box-shadow: 11px 11px 5px 1px rgba(0,0,0,0.75);
+box-shadow: 11px 11px 5px 1px rgba(0,0,0,0.75);
+}
+body{
+    background-image:url("images/e88b50b6a4d3dec3caae832a6d9f60e3 i.jpg") ;
+}
+
+
